@@ -1,0 +1,6 @@
+$NetBSD: distinfo,v 1.7 2017/04/08 11:25:11 adam Exp $
+
+SHA1 (pyasn1-0.2.3.tar.gz) = e30253a024d1388a96be8e84245a0d38f47467ff
+RMD160 (pyasn1-0.2.3.tar.gz) = f83df6b353bd9d194f60c875263216716815a955
+SHA512 (pyasn1-0.2.3.tar.gz) = b268dd458bca41f879389412570b4ce72585ac0c671275e0f4edec2ede5cf44d2473b08349f7d8b827cb21d14561c0209a5bf3698596a01ea770c2166eaa7fbf
+Size (pyasn1-0.2.3.tar.gz) = 94862 bytes
